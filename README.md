@@ -4,4 +4,4 @@
 
 # try project
 
-if you are intrested to try the project go to [**Budgety**](https://zaphir-react.vercel.app/)
+if you are intrested to try the project go to [**Budgety**](https://budgety-react.vercel.app/)
